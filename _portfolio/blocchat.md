@@ -34,7 +34,7 @@ short-description: BlocChat is a real-time chat application.
 
     After working through the kinks and learning some new concepts, we were left with a very smooth, functional Single Application View Chat Room site. Through queries linking the site to Firebase and Angular JS's intuitive framework we were able to add messages and create chat rooms in real-time. When the page first opens, the message input does not appear and we can see the prompt asking the user to select a room. Once the chat room is selected, messages added in a chat room are successfully added to the Firebase database and only show up in the current chat room. The time and username that are also also properties of the new message object are correctly displayed next to the message.
 
-s
+
 ## Conclusion
 
    With the completion of this project, I believe that I made great strides in expanding my knowledge of AngularJS and its unique framework. Creating many of the controllers and services on my own also allowed me to see the interactions between the two more clearly. Firebase worked in unison with the Angular framework and I would definitely use it again in my applications. I look forward to applying what I've learned with this project in the future
